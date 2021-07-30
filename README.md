@@ -1,1 +1,1 @@
-# legacy_C
+# legacy C code used in modelling studies with patient data
